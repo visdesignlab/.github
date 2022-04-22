@@ -13,15 +13,8 @@ Add a teaser image here (CHANGE)
 1. [Related Repositories](#related-repositories)
 1. [Funding Acknowledgements](#funding-acknowledgements)
 
-## Contributors
 
-List any contributors
-
-- Alexander Lex (@alexsb)
-- Jack Wilburn (@JackWilb)
-- etc.
-
-## Our Production Deployment
+## See it work in production!
 
 Add a link to the deployment here. If any special credentials are needed, make sure to note them.
 
@@ -51,6 +44,16 @@ List any related repos (CHANGE)
 
 - repo a
 - repo b
+
+
+## Contributors
+
+List any contributors
+
+- Alexander Lex (@alexsb)
+- Jack Wilburn (@JackWilb)
+- etc.
+
 
 ## Funding Acknowledgements
 
