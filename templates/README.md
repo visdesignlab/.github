@@ -6,15 +6,16 @@ Add a teaser image here (CHANGE)
 
 ## Table of Contents
 
-1. [Contributors](#contributors)
-1. [Our Production Deployment](#our-production-deployment)
+
+1. [Try it yourself!](#try-it-yourself)
 1. [Journal Articles and Blog Posts](#journal-articles-and-blog-posts)
 1. [Quick Start Guide](#quick-start-guide)
 1. [Related Repositories](#related-repositories)
+1. [Contributors](#contributors)
 1. [Funding Acknowledgements](#funding-acknowledgements)
 
 
-## See it work in production!
+## Try it yourself!
 
 Add a link to the deployment here. If any special credentials are needed, make sure to note them.
 
