@@ -59,3 +59,7 @@ List any contributors
 ## Funding Acknowledgements
 
 This project was funded by ... (CHANGE)
+
+## License
+
+This project is licensed with the BSD 3-clause license (CHANGE - add license to your project)
